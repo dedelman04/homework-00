@@ -17,3 +17,4 @@ library(seriation) # package for reordering a distance matrix
 library(gtools)
 library(tidyverse)
 library(dslabs)
+library(knitr)
